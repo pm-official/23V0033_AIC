@@ -224,3 +224,94 @@ fig = px.scatter_3d(x=[emb[0] for emb in embeddings.values()],
                     text=words)
 fig.show()
 ```
+
+---
+---
+
+# Non-Technical Questions
+
+### Q1. Timeline for Preparing for an Upcoming AI-Based Hackathon
+
+### Problem Statement: Predicting House Prices
+
+To prepare for an AI-based hackathon where we aim to predict house prices, I would follow a structured timeline, ensuring a comprehensive approach to both technical and organizational aspects. This preparation will span one month and will be divided into four key phases: Understanding the Problem, Data Preparation, Model Development, and Finalization.
+
+### Week 1: Understanding the Problem and Gathering Resources
+**Day 1-2: Problem Understanding**
+- Review the problem statement and objectives.
+- Identify the evaluation metrics (e.g., RMSE, MAE).
+- Outline the project goals and deliverables.
+
+**Day 3-4: Team Formation and Role Assignment**
+- Assemble a team with diverse skills (data scientists, developers, domain experts).
+- Assign roles and responsibilities to team members.
+- Set up communication channels (Slack, Trello).
+
+**Day 5-7: Dataset Acquisition and Exploration**
+- Gather relevant datasets (e.g., Kaggle’s house prices dataset).
+- Perform initial data exploration to understand the structure, features, and potential issues.
+- Identify additional data sources that could enhance model performance (e.g., economic indicators, geographical data).
+
+### Week 2: Data Preparation and Preprocessing
+**Day 8-10: Data Cleaning**
+- Handle missing values using imputation techniques.
+- Remove duplicates and irrelevant features.
+- Address outliers and anomalies.
+
+**Day 11-13: Feature Engineering**
+- Create new features that could improve model accuracy (e.g., age of the house, distance to city center).
+- Perform feature selection to retain only the most impactful features.
+
+**Day 14: Data Transformation**
+- Normalize or standardize features as necessary.
+- Encode categorical variables using techniques like one-hot encoding or label encoding.
+
+### Week 3: Model Development and Evaluation
+**Day 15-17: Baseline Model Development**
+- Develop a simple baseline model (e.g., Linear Regression).
+- Evaluate its performance using cross-validation.
+- Document the baseline results for comparison.
+
+**Day 18-21: Advanced Model Development**
+- Experiment with various models (e.g., Decision Trees, Random Forests, Gradient Boosting, Neural Networks).
+- Fine-tune hyperparameters using grid search or randomized search.
+- Implement ensemble methods to combine the strengths of different models.
+
+**Day 22-23: Model Evaluation**
+- Evaluate models using the validation set.
+- Compare model performance using evaluation metrics.
+- Select the best-performing model based on the results.
+
+### Week 4: Finalization and Presentation
+**Day 24-26: Model Optimization**
+- Perform model optimization techniques (e.g., feature scaling, hyperparameter tuning).
+- Ensure the model generalizes well to unseen data.
+
+**Day 27-28: Documentation and Visualization**
+- Document the entire process, including data preprocessing, model development, and results.
+- Create visualizations to illustrate key findings and model performance.
+
+**Day 29-30: Presentation Preparation**
+- Prepare a final presentation, including an overview of the problem, approach, and results.
+- Practice the presentation with the team, ensuring clarity and coherence.
+
+**Final Day: Hackathon Participation**
+- Ensure all team members are aligned and ready.
+- Present the model, its results, and potential future improvements.
+- Be prepared to answer questions and demonstrate the robustness of the solution.
+
+By following this structured approach, we ensure thorough preparation for the hackathon, maximizing our chances of success.
+
+## Q2. Statement of Purpose (SOP) for Joining the Artificial Intelligence Community
+
+### Introduction
+Joining the AI Community at our college is an exciting opportunity for me to contribute to and learn from a group of like-minded individuals who share a common interest in AI technologies. I want to do My BTP and MTP in AI and therefore want to learn more about the technologies. ave done a BTP in computer vision which was related to activity recognition.
+
+### Goals and Motivation
+My primary goal in joining the AI Community is to deepen my understanding of AI and its applications. I am particularly interested in computer vision. By collaborating with peers, I hope to work on innovative projects that address real-world problems.
+
+### Knowledge and Experience
+I am proficient in using machine learning frameworks like TensorFlow and scikit-learn. Have done a BTP in computer vision which was related to activity recognition.
+
+### Contributions to the Community
+I aim to bring my enthusiasm and dedication to the AI Community. I am eager to participate in hackathons, workshops, and seminars, and contribute to ongoing projects.
